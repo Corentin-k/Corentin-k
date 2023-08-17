@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Corentin</div>  
+# <div align="center">I'm Corentin</div>  
 
 ## Academic Projects at EFREI:
 
