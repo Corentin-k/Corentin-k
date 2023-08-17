@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm Corentin</div>  
 
-<h2>Personal Projects:</h2>
--<strong>Discord Bots - Custom Schedule Retrieval:</strong></p>
-<p>Creation of Discord bots to retrieve an individual's personalized schedule.
+## Personal Projects:  
+  
+
+- **Discord Bots - Custom Schedule Retrieval:**  
+  
+
+ Creation of Discord bots to retrieve an individual's personalized schedule.  
+  
 
 -<strong>Revisiting the C Project with Color Addition:</strong></p>
 <p>Enhancement of the C project by adding color functionality.
