@@ -19,21 +19,26 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Corentiin, and  i</div>  
-  
+### <div align="center">I'm Corentiin</div>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<h2>Personal Projects:</h2>
+<p><strong>Discord Bots - Custom Schedule Retrieval:</strong></p>
+<p>Creation of Discord bots to retrieve an individual's personalized schedule.</p>
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+<p><strong>Revisiting the C Project with Color Addition:</strong></p>
+<p>Enhancement of the C project by adding color functionality.</p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<p><strong>Projects Focused on Learning and Exploring C++ and Inno Setup:</strong></p>
+<p>In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user-friendly installers.</p>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<h2>Academic Projects at EFREI:</h2>
+<p><strong>Revisiting a Tetris Project in Python:</strong></p>
+<p>Revisiting the Tetris project in Python with improvements and new features.</p>
 
+<p><strong>Creation of a Vector Drawing Application in C:</strong></p>
+<p>Design and realization of a vector drawing application in the C language.</p>
+
+  
 <br/>  
 
 
