@@ -21,6 +21,16 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm Corentin</div>  
 
+## Academic Projects at EFREI:
+
+- **Revisiting a Tetris Project in Python:**
+  
+  Revisiting the Tetris project in Python with improvements and new features.
+
+- **Creation of a Vector Drawing Application in C:**
+
+  Design and realization of a vector drawing application in the C language.
+
 ## Personal Projects:  
   
 
@@ -35,17 +45,6 @@ Here are some ideas to get you started:
 - **Projects Focused on Learning and Exploring C++ and Inno Setup:**
 
   In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
-
-
-## Academic Projects at EFREI:
-
-- **Revisiting a Tetris Project in Python:**
-  
-  Revisiting the Tetris project in Python with improvements and new features.
-
-- **Creation of a Vector Drawing Application in C:**
-
-  Design and realization of a vector drawing application in the C language.
 
   
 <br/>  
