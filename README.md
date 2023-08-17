@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Corentiin</div>  
+### <div align="center">I'm Corentin</div>  
 
 <h2>Personal Projects:</h2>
 <p><strong>Discord Bots - Custom Schedule Retrieval:</strong></p>
