@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Corentin</div>  
 
 <h2>Personal Projects:</h2>
-<p><strong>Discord Bots - Custom Schedule Retrieval:</strong></p>
-<p>Creation of Discord bots to retrieve an individual's personalized schedule.</p>
+-<strong>Discord Bots - Custom Schedule Retrieval:</strong></p>
+<p>Creation of Discord bots to retrieve an individual's personalized schedule.
 
-<p><strong>Revisiting the C Project with Color Addition:</strong></p>
-<p>Enhancement of the C project by adding color functionality.</p>
+-<strong>Revisiting the C Project with Color Addition:</strong></p>
+<p>Enhancement of the C project by adding color functionality.
 
-<p><strong>Projects Focused on Learning and Exploring C++ and Inno Setup:</strong></p>
-<p>In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user-friendly installers.</p>
+-<strong>Projects Focused on Learning and Exploring C++ and Inno Setup:</strong>
+<p>In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
 
 <h2>Academic Projects at EFREI:</h2>
-<p><strong>Revisiting a Tetris Project in Python:</strong></p>
-<p>Revisiting the Tetris project in Python with improvements and new features.</p>
+-<strong>Revisiting a Tetris Project in Python:</strong>
+Revisiting the Tetris project in Python with improvements and new features.
 
-<p><strong>Creation of a Vector Drawing Application in C:</strong></p>
-<p>Design and realization of a vector drawing application in the C language.</p>
+-<strong>Creation of a Vector Drawing Application in C:</strong></p>
+<p>Design and realization of a vector drawing application in the C language.
 
   
 <br/>  
