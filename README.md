@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pqsy1sn2oeu9seihd0krfltfh&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=1d32d3&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pqsy1sn2oeu9seihd0krfltfh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4e6cb1&bar_color_cover=true" /></div>  
 
 <br/>  
 
