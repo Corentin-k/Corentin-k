@@ -26,22 +26,26 @@ Here are some ideas to get you started:
 
 - **Discord Bots - Custom Schedule Retrieval:**  
   
+   Creation of Discord bots to retrieve an individual's personalized schedule.  
 
- Creation of Discord bots to retrieve an individual's personalized schedule.  
+- **Revisiting the C Project with Color Addition:**  
   
+  Enhancement of the C project by adding color functionality.  
+  
+- **Projects Focused on Learning and Exploring C++ and Inno Setup:**
 
--<strong>Revisiting the C Project with Color Addition:</strong></p>
-<p>Enhancement of the C project by adding color functionality.
+  In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
 
--<strong>Projects Focused on Learning and Exploring C++ and Inno Setup:</strong>
-<p>In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
 
-<h2>Academic Projects at EFREI:</h2>
--<strong>Revisiting a Tetris Project in Python:</strong>
-Revisiting the Tetris project in Python with improvements and new features.
+## Academic Projects at EFREI:
 
--<strong>Creation of a Vector Drawing Application in C:</strong></p>
-<p>Design and realization of a vector drawing application in the C language.
+- **Revisiting a Tetris Project in Python:**
+  
+  Revisiting the Tetris project in Python with improvements and new features.
+
+- **Creation of a Vector Drawing Application in C:**
+
+  Design and realization of a vector drawing application in the C language.
 
   
 <br/>  
