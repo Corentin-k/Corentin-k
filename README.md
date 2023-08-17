@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
   Design and realization of a vector drawing application in the C language.
 
+- **Giga Jump (Transverse Project)**
+
+  Creation of a Python game similar to DoodleJump.
+
+
 ## Personal Projects:  
   
 
@@ -41,11 +46,14 @@ Here are some ideas to get you started:
 - **Revisiting the C Project with Color Addition:**  
   
   Enhancement of the C project by adding color functionality.  
-  
+
+- **Creation of a Website and JavaScript Discovery:**
+
+  Design and development of a website using HTML, CSS, and the discovery of JavaScript.</p>
+
 - **Projects Focused on Learning and Exploring C++ and Inno Setup:**
 
   In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
-
   
 <br/>  
 
