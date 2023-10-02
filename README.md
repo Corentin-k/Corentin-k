@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 - **Projects Focused on Learning and Exploring C++ and Inno Setup:**
 
   In-depth exploration of the C++ language to develop advanced skills. Utilization of Inno Setup for creating user installers.
+
+- **Discovery of databases:**
+  
+  Creation of a bot linked to a MySQL database for the creation of a digital library.
   
 <br/>  
 
