@@ -56,7 +56,7 @@
 - **Exploring C++ and Inno Setup:**
 
    Exploration of the C++ language.
-   Utilization of Inno Setup for creating user installers.
+   Use of Inno Setup for creating user installers.
 
 - **Website and JavaScript Discovery:**
 
