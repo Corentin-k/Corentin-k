@@ -120,22 +120,3 @@
 
 
 <br/>  
-
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-k&hide_border=true&layout=compact" align="center" /></div>  
-
-<!--<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pqsy1sn2oeu9seihd0krfltfh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
-
-<br/>  -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Corentin-k&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
