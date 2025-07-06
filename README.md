@@ -6,10 +6,6 @@
 
 # <div align="center">I'm Corentin 🚀</div>
 
-<div align="center">
-  <em>Software Engineering Student at EFREI | Full-Stack Developer | Embedded Systems Enthusiast</em>
-</div>
-
 ---
 
 ## 🎓 Academic Projects at EFREI
@@ -20,7 +16,15 @@
 An autonomous robot capable of movement, perception, and remote control through a web interface. Built with Python Flask backend and Vue.js frontend, featuring real-time video streaming, LED control, servo motor management, and ultrasonic sensors.
 
 **Tech Stack:** Python, Flask, Vue.js, JavaScript, Raspberry Pi
+
 **Features:** Real-time video streaming, LED RGB control, servo motor control, ultrasonic sensors, buzzer integration
+
+### **🧠 VHDL LogiGame**
+*Digital Logic Game in VHDL*
+
+A digital logic-based game implementation using VHDL for FPGA development, demonstrating hardware description language skills.
+
+**Tech Stack:** VHDL
 
 ### **🎬 IMDB Machine Learning Project (L3 - Concordia University)**
 *Movie Review Sentiment Classification System*
@@ -28,6 +32,7 @@ An autonomous robot capable of movement, perception, and remote control through 
 A comprehensive machine learning project for sentiment analysis of movie reviews using Logistic Regression and NLP techniques. Features a Vue.js frontend with FastAPI backend, achieving 88.54% accuracy in sentiment classification.
 
 **Tech Stack:** Python, FastAPI, Vue.js, Scikit-learn, SpaCy, Docker, MLflow
+
 **Features:** Sentiment classification, model visualization, word cloud generation, containerized deployment
 
 ### **📚 Smart Library Project (L3)**
@@ -36,6 +41,7 @@ A comprehensive machine learning project for sentiment analysis of movie reviews
 A comprehensive library management system enabling users to explore books and administrators to manage inventory. Features AI-driven recommendations, user authentication, and advanced admin analytics.
 
 **Tech Stack:** Vue.js, Node.js, MySQL, JavaScript
+
 **Features:** User registration, book browsing, AI recommendations, admin dashboard, favorites management
 
 ### **🎮 Tetris Project (L1)**
@@ -58,14 +64,14 @@ A Python-based jumping game similar to DoodleJump with physics-based gameplay an
 **Version 1:** A vector drawing application designed in C language for creating and manipulating geometric shapes.
 **Version 2:** Enhanced version with color support and improved functionality.
 
-**Tech Stack:** C, CMake
+**Tech Stack:** C
 
 ### **📅 Gestionnaire Agenda (L2)**
 *Calendar Management System*
 
 A calendar management system developed in C, exploring linked lists and tree data structures for efficient data organization.
 
-**Tech Stack:** C, CMake
+**Tech Stack:** C
 
 ### **🔄 Automata Project (L2)**
 *Finite Automata Management System*
@@ -73,13 +79,6 @@ A calendar management system developed in C, exploring linked lists and tree dat
 A Python application for managing and simulating finite automata, providing tools for automata creation, visualization, and analysis.
 
 **Tech Stack:** Python
-
-### **🧠 VHDL LogiGame**
-*Digital Logic Game in VHDL*
-
-A digital logic-based game implementation using VHDL for FPGA development, demonstrating hardware description language skills.
-
-**Tech Stack:** VHDL, Tcl
 
 ### **📊 Recherche Opérationnelle**
 *Operations Research Algorithms*
@@ -95,16 +94,9 @@ Implementation of various operations research algorithms and optimization techni
 ### **🏛️ Pantheon of Code (OnePantheon)**
 *Multi-Platform Development Project*
 
-A comprehensive project involving multiple programming languages and platforms, demonstrating versatility in software development.
+A comprehensive project involving multiple programming languages and platforms.
 
 **Tech Stack:** JavaScript, Vue.js, Java, Assembly
-
-### **🏓 Pong (Crobotic)**
-*Classic Pong Game Implementation*
-
-A web-based implementation of the classic Pong game with modern HTML5 and JavaScript technologies.
-
-**Tech Stack:** HTML, JavaScript
 
 ---
 
@@ -113,9 +105,10 @@ A web-based implementation of the classic Pong game with modern HTML5 and JavaSc
 ### **🏠 Home Vue**
 *Home Automation Web Interface*
 
-A Vue.js-based home automation system featuring weather monitoring, LED strip control, user authentication, and data persistence. Includes both frontend and backend implementations for comprehensive home control.
+A Vue.js-based home automation system featuring weather monitoring, LED strip control with ESP32, user authentication, and data persistence. Includes both frontend and backend implementations for comprehensive home control.
 
 **Tech Stack:** Vue.js, TypeScript, JavaScript, C++
+
 **Features:** Weather display, LED control, user authentication, data storage
 
 ### **🔧 C++ & Inno Setup Exploration**
@@ -123,7 +116,7 @@ A Vue.js-based home automation system featuring weather monitoring, LED strip co
 
 Exploration of C++ programming language fundamentals and Inno Setup for creating professional software installers and distribution packages.
 
-**Tech Stack:** C++, Inno Setup, CMake, Makefile
+**Tech Stack:** C++, Inno Setup
 
 ### **🌐 Website & JavaScript Discovery**
 *Web Development Foundation*
