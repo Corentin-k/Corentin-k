@@ -1,211 +1,133 @@
-### Hi there 👋
+<!-- HERO HEADER -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Corentin%20Kervagoret&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&fontSize=48&desc=Robotics%20%26%20Embedded%20Systems%20Explorer&descAlign=50&descAlignY=70&animation=fadeIn" 
+    alt="Corentin Kervagoret - Robotics & Embedded Systems Explorer Hero Banner"
+/>
+</p>
+
+<!-- OPTIONAL INLINE HERO GIF (uncomment & replace src with your own GIF) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Corentin-k/Corentin-k/main/assets/robotic_arm_loop.gif" 
+       alt="Robotic arm prototype animation" height="180">
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/Corentin-k">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1200&color=00D8FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Embedded+Systems+Enthusiast;FPGA+Logic+%7C+Custom+PCBs+%7C+Autonomous+Robots;ROS+2+%7C+Embedded+Linux+%7C+Real-Time+Exploration;Turning+ideas+into+moving+systems" 
+      alt="Typing introduction"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-what-im-exploring">Exploring</a> •
+  <a href="#-tech-stack--tools">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-learning-path">Learning</a> •
+  <a href="#-github-snapshot">Stats</a> •
+  <a href="#-highlights">Highlights</a>
+</p>
+
+---
+
+# Hi, I'm Corentin 👋
+
+Robotics & embedded systems enthusiast • 4th-year engineering student (EFREI Paris).    
+Currently seeking a 20-week internship (Nov 3, 2025 → Apr 3, 2026) in embedded systems applied to robotics or drones.
+
+---
+
+## 🔭 What I'm Exploring
+- FPGA logic in VHDL (ALU, instruction memory, modular game logic)
+- Robotic arm (Raspberry Pi + custom PCB via KiCad)
+- Autonomous robotics (Adeept PiCar-B: control & navigation)
+- Embedded / IoT with ESP32 + early ROS 2 concepts
+- Lightweight dashboards (Vue.js)
+- BuildRoot & STM32 (intro level)
+- Rapid prototyping in a FabLab (laser cutter, CNC, 3D printing)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Languages  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-783CBD?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+
+### Embedded / Platforms  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=STMicroelectronics&logoColor=white&style=for-the-badge)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white&style=for-the-badge)
+![BuildRoot](https://img.shields.io/badge/BuildRoot-023B61?logo=buildroot&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+### Tools & Workflow  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white&style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-6E4C13?style=for-the-badge)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge)
+![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FFB300?style=for-the-badge)
+![CNC](https://img.shields.io/badge/CNC-005A9C?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-2E8B57?style=for-the-badge)
+
+### Currently Leveling Up  
+![Real-Time Systems](https://img.shields.io/badge/Real--Time%20Systems-444444?style=for-the-badge)
+![Low-Level Drivers](https://img.shields.io/badge/Low--Level%20Drivers-222222?style=for-the-badge)
+![Cross Compilation](https://img.shields.io/badge/Cross%20Compilation-005F73?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Focus Areas |
+|---------|------------|-------------|
+| [VHDL-LogiGame](https://github.com/Corentin-k/VHDL-LogiGame) | Small interactive logic/game system on FPGA | ALU, instruction memory, modular VHDL |
+| [croboticArm](https://github.com/ice-efrei/croboticArm) | Collaborative robotic arm platform | PCB design, control logic, Raspberry Pi |
+| [Home-Vue](https://github.com/Corentin-k/Home-Vue) | Personal modular dashboard | Vue.js, components, state |
+| [SE-Wall-Ed](https://github.com/Corentin-k/SE-Wall-Ed) | Wall editing / annotation tools | Front-end tooling |
+| ESP32 + ROS 2 Snippets | Embedded experimentation | Messaging, timing, sensors |
+
+---
+
+## 🌱 Learning Path
+- Deeper ROS 2 node orchestration
+- BuildRoot customization (minimal images)
+- STM32 peripheral deep dive
+- Real-time constraints & timing analysis
+- Sensor fusion experiments
+- 
+---
+
+## ✨ Highlights
+- Designed & fabricated a custom PCB (KiCad)
+- Built FPGA components (logic + memory)
+- Guided peers in makerspace environment
+- Explored autonomous navigation & control loops
+- Early ROS 2 integration experiments
+
+---
+
+## 📊 GitHub Snapshot
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
-# <div align="center">I'm Corentin 🚀</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Corentin-k&show_icons=true&theme=transparent&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-k&layout=compact&theme=transparent&exclude_repo=Corentin-k)
+![Streak](https://streak-stats.demolab.com?user=Corentin-k&theme=transparent)
 
----
-
-## 🎓 Academic Projects at EFREI
-
-### **🤖 SE Wall-Ed (L3 - Master Camp)**
-*Autonomous Robot with Client-Server Architecture*
-
-An autonomous robot capable of movement, perception, and remote control through a web interface. Built with Python Flask backend and Vue.js frontend, featuring real-time video streaming, LED control, servo motor management, and ultrasonic sensors.
-
-**Tech Stack:** Python, Flask, Vue.js, JavaScript, Raspberry Pi
-
-**Features:** Real-time video streaming, LED RGB control, servo motor control, ultrasonic sensors, buzzer integration
-
-### **🧠 VHDL LogiGame**
-*Digital Logic Game in VHDL*
-
-A digital logic-based game implementation using VHDL for FPGA development, demonstrating hardware description language skills.
-
-**Tech Stack:** VHDL
-
-### **🎬 IMDB Machine Learning Project (L3 - Concordia University)**
-*Movie Review Sentiment Classification System*
-
-A comprehensive machine learning project for sentiment analysis of movie reviews using Logistic Regression and NLP techniques. Features a Vue.js frontend with FastAPI backend, achieving 88.54% accuracy in sentiment classification.
-
-**Tech Stack:** Python, FastAPI, Vue.js, Scikit-learn, SpaCy, Docker, MLflow
-
-**Features:** Sentiment classification, model visualization, word cloud generation, containerized deployment
-
-### **📚 Smart Library Project (L3)**
-*Full-Stack Library Management System*
-
-A comprehensive library management system enabling users to explore books and administrators to manage inventory. Features AI-driven recommendations, user authentication, and advanced admin analytics.
-
-**Tech Stack:** Vue.js, Node.js, MySQL, JavaScript
-
-**Features:** User registration, book browsing, AI recommendations, admin dashboard, favorites management
-
-### **🎮 Tetris Project (L1)**
-*Classic Tetris Game in Python*
-
-A complete recreation of the classic Tetris game implemented in Python, featuring traditional gameplay mechanics and scoring systems.
-
-**Tech Stack:** Python
-
-### **🏃 Giga Jump (L1)**
-*DoodleJump-inspired Game*
-
-A Python-based jumping game similar to DoodleJump with physics-based gameplay and progressive difficulty.
-
-**Tech Stack:** Python
-
-### **🎨 Vector Drawing Application (L1-L2)**
-*C-based Graphics Application*
-
-**Version 1:** A vector drawing application designed in C language for creating and manipulating geometric shapes.
-**Version 2:** Enhanced version with color support and improved functionality.
-
-**Tech Stack:** C
-
-### **📅 Gestionnaire Agenda (L2)**
-*Calendar Management System*
-
-A calendar management system developed in C, exploring linked lists and tree data structures for efficient data organization.
-
-**Tech Stack:** C
-
-### **🔄 Automata Project (L2)**
-*Finite Automata Management System*
-
-A Python application for managing and simulating finite automata, providing tools for automata creation, visualization, and analysis.
-
-**Tech Stack:** Python
-
-### **📊 Recherche Opérationnelle**
-*Operations Research Algorithms*
-
-Implementation of various operations research algorithms and optimization techniques in Python.
-
-**Tech Stack:** Python
-
----
-
-## 🏢 Association Projects
-
-### **🏛️ Pantheon of Code (OnePantheon)**
-*Multi-Platform Development Project*
-
-A comprehensive project involving multiple programming languages and platforms.
-
-**Tech Stack:** JavaScript, Vue.js, Java, Assembly
-
----
-
-## 💻 Personal Projects
-
-### **🏠 Home Vue**
-*Home Automation Web Interface*
-
-A Vue.js-based home automation system featuring weather monitoring, LED strip control with ESP32, user authentication, and data persistence. Includes both frontend and backend implementations for comprehensive home control.
-
-**Tech Stack:** Vue.js, TypeScript, JavaScript, C++
-
-**Features:** Weather display, LED control, user authentication, data storage
-
-### **🔧 C++ & Inno Setup Exploration**
-*Systems Programming & Installation Development*
-
-Exploration of C++ programming language fundamentals and Inno Setup for creating professional software installers and distribution packages.
-
-**Tech Stack:** C++, Inno Setup
-
-### **🌐 Website & JavaScript Discovery**
-*Web Development Foundation*
-
-Personal website project for learning HTML, CSS, and JavaScript fundamentals, featuring responsive design and interactive elements.
-
-**Tech Stack:** HTML, CSS, JavaScript, PHP
-
-### **📟 Screen-OLED-.91inch**
-*Raspberry Pi Display System*
-
-A Raspberry Pi project featuring an OLED screen that displays network information including IP address and SSID, useful for network monitoring and device identification.
-
-**Tech Stack:** Python, Shell, Raspberry Pi
-
-### **🤖 Discord Bot - Schedule Manager**
-*Automated Schedule Retrieval System*
-
-Custom Discord bots designed to retrieve and display personalized schedules, automating routine information sharing within Discord servers.
-
-**Tech Stack:** JavaScript, Node.js
-
-### **📱 QuizApp**
-*Interactive Quiz Application*
-
-A dynamic quiz application built with Vue.js, featuring interactive questions, scoring systems, and responsive design for educational purposes.
-
-**Tech Stack:** JavaScript, Vue.js, CSS
-
-### **⚖️ Hackathon LegalHelpIA**
-*AI-Powered Legal Assistant*
-
-An AI-driven legal assistance application developed during a hackathon, providing automated legal guidance and document analysis.
-
-**Tech Stack:** Python
-
----
-
-## 🛠️ My Skill Set
-
-<div align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </div>
 
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Corentin-k&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-k&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-<a href="https://github.com/Corentin-k" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/corentin-kervagoret-066910251/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
----
-
-<div align="center">
-  <em>"Building tomorrow's technology today, one commit at a time"</em>
-</div>
